@@ -1,0 +1,23 @@
+DSA 
+
+Basic Question :
+
+100 = Basic Question (Prime Numbe, Fibo, Patterns - 10 etc)
+150 = Let Code (Easy And Medium Question)
+25-50 = CodeForce And CodeCheif
+
+300 = Total Coding Question
+
+(Array, Stack, Queue, Sreach, Sort)
+(Advance = Trie, Graphs) 
+
+In JAVA
+
+
+Very Basic
+
+1 Output In Console
+2 How To Make Input
+3 Variable 
+4 Conditions (IF.ELSE)
+5 Loop (FOR/WHILE/DO-WHILE)  
